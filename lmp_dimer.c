@@ -16,6 +16,9 @@ int main(int argc, char **argv)
 {
 	int manos = 1;
 	//
+	
+	int stefanos = 0;
+	
 	FILE *fp;
 	char current_folder[cmax_length],file_path[cmax_length],buffer[cmax_length];	
 	int i;
