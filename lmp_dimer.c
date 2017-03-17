@@ -15,6 +15,9 @@ void rotate(double ux, double uy, double uz, double x_center, double y_center, d
 int main(int argc, char **argv)
 {
 	//
+	
+	int stefanos = 0;
+	
 	FILE *fp;
 	char current_folder[cmax_length],file_path[cmax_length],buffer[cmax_length];	
 	int i;
